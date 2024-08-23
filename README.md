@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrew4coding" alt="andrew4coding" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Golang, Nest JS**
+- 🌱 I’m currently learning **Golang and Laravel*
 
 - 👨‍💻 All of my projects are available at [http://andrew-portofolio.vercel.app/](http://andrew-portofolio.vercel.app/)
 
-- 💬 Ask me about **React, Next JS, Express JS, Python, Java**
+- 💬 Ask me about **Next JS, Nest JS, Python, Java**
 
 - 📫 How to reach me **andrewdevitoaryo@gmail.com**
 
